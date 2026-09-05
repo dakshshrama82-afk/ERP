@@ -32,3 +32,21 @@ student_pass = {
     "Parker":"DVD007R053","Quinn":"DVD007R054","Reese":"DVD007R055","Riley":"DVD007R056",
     "Rowan":"DVD007R057","Sage":"DVD007R058","Taylor":"DVD007R059","Zion":"DVD007R060",
 }
+
+student_names = [
+    "Alexander", "Benjamin", "Catherine", "Elizabeth",
+    "Daniel", "Emma", "Gabriel", "Henry",
+    "Ian", "Jacob", "Liam", "Lucas",
+    "Matthew", "Noah", "Oliver", "Owen",
+    "Ryan", "Samuel", "Theodore", "Thomas",
+    "William", "Amelia", "Ava", "Charlotte",
+    "Chloe", "Eleanor", "Evelyn", "Grace",
+    "Harper", "Isabella", "Lily", "Mia",
+    "Nora", "Olivia", "Penelope", "Ruby",
+    "Sophia", "Stella", "Victoria", "Zoey",
+    "Alex", "Avery", "Charlie", "Cameron",
+    "Dylan", "Eden", "Emerson", "Finley",
+    "Jordan", "Kai", "Logan", "Morgan",
+    "Parker", "Quinn", "Reese", "Riley",
+    "Rowan", "Sage", "Taylor", "Zion",
+]
